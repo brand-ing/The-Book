@@ -10,7 +10,7 @@ This repository contains my solutions to the exercises in "The C Programming Lan
 The book is a classic in the field of computer science, and this project aims to deepen my understanding of the C programming language.
 
 ## Exercises
-Chapter 1: Introduction
+### Chapter 1: Introduction
 
  Exercise 1-1
  Exercise 1-2
@@ -18,13 +18,14 @@ Chapter 1: Introduction
      Exercise 1-3
     ...
 
-Chapter 2: Types, Operators, and Expressions
+### Chapter 2: Types, Operators, and Expressions
 
  Exercise 2-1
 
      Exercise 2-2
     ...
 
+### Chapter 3: Control Flow
 ...
 
 ## License
